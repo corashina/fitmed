@@ -16,4 +16,4 @@ $ npm run dev
  - Edit users' diets 
  - View products' kcal, protein, carbs, fat
 ## Preview
-![alt text](https://raw.githubusercontent.com/Tomasz-Zielinski/Fitmed/master/client/src/img/preview.png)
+![alt text](client/src/img/preview.png)
